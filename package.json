@@ -15,7 +15,7 @@
     "init"
   ],
   "author": "fis",
-  "license": "BSD",
+  "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/2betop/fis3-command-init/issues"
   },
